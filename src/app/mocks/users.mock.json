@@ -1,0 +1,30 @@
+[
+  {
+    "id": "62f952889c1e24fb9fa590a0",
+    "email": "test@test.com"
+  },
+  {
+    "id": "62f95290321dafef46471bf6",
+    "email": "test@gmail.com"
+  },
+  {
+    "id": "62f9529512ffedda2de6ec48",
+    "email": "test@hotmail.com"
+  },
+  {
+    "id": "62f9529daf95e6bf004f9dda",
+    "email": "foo@moo.com"
+  },
+  {
+    "id": "62f952b77779ebd8266d3be1",
+    "email": "foo@bar.com"
+  },
+  {
+    "id": "62f952dbd6b5dd9dded4289c",
+    "email": "boo@foo.com"
+  },
+  {
+    "id": "62f952d64467e7d2616947be",
+    "email": "bar@bar.com"
+  }
+]
